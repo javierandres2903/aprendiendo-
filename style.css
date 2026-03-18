@@ -1,0 +1,28 @@
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+body {
+    background-color: #bfd4f3; /* Un gris muy claro y moderno */
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color:rgb(17, 216, 143)
+}
+h2{
+    color:black
+}
+td, th {
+  border: 1px solid #828be3;
+  text-align: left;
+  padding: 8px;
+  color:rgb(0, 0, 0)
+}
+
+tr:nth-child(even) {
+  background-color: #cad5ce;
+}
